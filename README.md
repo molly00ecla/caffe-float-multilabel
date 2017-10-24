@@ -1,3 +1,8 @@
+# Caffe-float-multilabel
+For a simply implemation of https://arxiv.org/abs/1503.02531 Distilling the Knowledge in a Neural Network, I use a cumbersome model (DenseNet161) to generate feature which is used for train a shallow model. So, the label is some float num.
+repository forked form https://github.com/kevinlin311tw/caffe-multilabel
+
+
 # Caffe-multilabel
 
 Slight modification of the latest caffe (forked in Feb 2017), and extend the ImageData layer to multi-label inputs.
